@@ -7,4 +7,4 @@ password-->cloudera
 mysql -uroot -pcloudera
 
 # ITVERSITY
-http://www.itversity.com/lessons/problem-1-importing-and-exporting-data-with-transformations/
+http://www.itversity.com/courses/cca-spark-and-hadoop-developer-preparation-plan/
