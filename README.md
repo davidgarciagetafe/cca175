@@ -2,39 +2,9 @@
 Ejercicios para la preparación de la certificación CCA175
 
 # MySQL
-# user-->root
-# password-->cloudera
-# mysql -uroot -pcloudera
+user-->root
+password-->cloudera
+mysql -uroot -pcloudera
 
-# SQOOP
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+# ITVERSITY
+http://www.itversity.com/lessons/problem-1-importing-and-exporting-data-with-transformations/
